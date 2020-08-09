@@ -11,6 +11,10 @@ p {
   line-height: 1.9;
 }
 
+.pointer {
+  cursor: pointer;
+}
+
 body {
   margin: 0;
   height: 100vh;
